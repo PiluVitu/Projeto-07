@@ -1,0 +1,23 @@
+{
+  "name": "projeto-07",
+  "version": "1.0.0",
+  "description": "Projeto 07 Explorer SPA bem simples para entender os fundamentos",
+  "main": "index.js",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PiluVitu/Projeto-07.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PiluVitu/Projeto-07/issues"
+  },
+  "homepage": "https://github.com/PiluVitu/Projeto-07#readme",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
